@@ -5,3 +5,4 @@ llama-index-agent-openai
 llama-index-embeddings-openai
 flask
 Flask-cors
+markdown
